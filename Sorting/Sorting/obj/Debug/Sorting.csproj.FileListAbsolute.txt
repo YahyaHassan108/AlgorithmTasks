@@ -1,0 +1,11 @@
+E:\Study\Task\Algo\Sort\Sorting\Sorting\bin\Debug\Sorting.exe.config
+E:\Study\Task\Algo\Sort\Sorting\Sorting\bin\Debug\Sorting.exe
+E:\Study\Task\Algo\Sort\Sorting\Sorting\bin\Debug\Sorting.pdb
+E:\Study\Task\Algo\Sort\Sorting\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+E:\Study\Task\Algo\Sort\Sorting\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+E:\Study\Task\Algo\Sort\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+E:\Study\Task\Algo\Sort\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+E:\Study\Task\Algo\Sort\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+E:\Study\Task\Algo\Sort\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+E:\Study\Task\Algo\Sort\Sorting\Sorting\obj\Debug\Sorting.exe
+E:\Study\Task\Algo\Sort\Sorting\Sorting\obj\Debug\Sorting.pdb
